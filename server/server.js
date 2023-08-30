@@ -30,7 +30,7 @@ const user = {
 
 // string methods
 
-const firstName = 'Sami'
+const firstName = 'Samid'
 const lastName = 'Ullah'
 
 // console.log(username.toUpperCase())
